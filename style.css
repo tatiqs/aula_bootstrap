@@ -1,0 +1,57 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.margin{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+.container-fluid{
+    padding: 20px;
+}
+
+.curso{
+    background-color: rgb(216, 200, 194);
+}
+
+.curso img{
+    width: 140px;
+}
+
+.curso p {
+    padding: 30px;
+    text-align: center;
+}
+
+.conteudo{
+    background-color: rgb(236, 227, 224);
+}
+
+.conteudo img{
+    width: 70px;
+    height: 70px;
+    margin-bottom: 40px;
+}
+
+.links-uteis{
+    background-color: rgb(216, 200, 194);
+
+}
+
+.links-uteis img{
+    width: 70px;
+    height: 70px;
+
+}
+
+.links-uteis a{
+    text-decoration: none;
+    text-decoration-style: none;
+}
+
+.bg-footer{
+    background-color: #f8f9fa;
+}
